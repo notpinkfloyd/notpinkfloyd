@@ -60,7 +60,7 @@ This portfolio will evolve alongside my graduate coursework and independent proj
 M.S. Computer Science & Artificial Intelligence | In Progress
 
 **University of Redlands**  
-Undergraduate Studies
+B.S. Business Admin
 
 ## Connect
 
