@@ -10,6 +10,8 @@ My background is in pharmaceutical pricing, commercial strategy, and business in
 
 I'm pursuing computer science to broaden my technical capabilities beyond analytics, with a particular interest in software development, applied AI, and building practical solutions to complex problems.
 
+📄 [View My Resume](./Robert_Floyd_Resume.pdf)
+
 ## Professional Experience
 
 My work has primarily focused on analytics and strategy within the pharmaceutical industry.
